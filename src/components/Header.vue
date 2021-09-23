@@ -1,0 +1,169 @@
+<template>
+    <header>
+        <nav>
+            <div class="logo">
+                <svg width="110" height="25" viewBox="0 0 109 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M3.6 0H0V20.4V24H3.6H24V20.4H3.6V0ZM24 17.4V3.6V0H20.4H6.6V3.6H20.4V17.4H24ZM17.4 6.6H6.6V17.4H17.4V6.6ZM14.4 9.59999H9.6V14.4H14.4V9.59999ZM36.227 19.2V0H33V19.2H36.227ZM41.6605 2.55086V0H38.4335V2.55086H41.6605ZM41.6605 4.66285V19.2H38.4335V4.66285H41.6605ZM47.094 19.2V7.89943C47.094 7.70743 47.094 7.488 47.2595 7.296C47.4249 7.13143 47.618 7.13143 47.8111 7.13143H51.0932C52.2792 7.13143 52.9412 7.40571 53.4101 8.00914C53.9341 8.69485 54.0169 9.62743 54.0169 10.5874V19.2H57.2439V9.62743C57.2439 7.62514 56.5819 6.528 55.8096 5.84228C54.6512 4.8 53.2446 4.66285 51.7276 4.66285H46.3462C45.7197 4.66556 44.8752 4.71162 44.3359 5.32114C43.8946 5.78743 43.867 6.44571 43.867 6.88457V19.2H47.094ZM73.0479 17.5543C73.0479 19.4194 72.8272 21.0926 71.8619 22.2446C70.5104 23.8354 68.0281 24 66.98 24H60.0847V21.5314L66.3625 21.531C67.0692 21.5261 68.2114 21.4669 68.9383 20.8731C69.3796 20.4891 69.7105 19.8583 69.7933 19.2L64.4605 19.1995C62.9778 19.1895 61.2894 19.0071 60.195 17.3349C59.4228 16.128 59.0642 14.2903 59.0642 11.712C59.0642 9.43543 59.34 7.65257 60.6088 6.25371C61.9878 4.74514 63.6427 4.66285 65.1045 4.66285H69.8209C70.6483 4.66285 71.5033 4.69028 72.1929 5.23885C72.9375 5.84228 73.0479 6.74743 73.0479 7.35085V17.5543ZM69.8209 16.7314H65.9871C65.0493 16.7314 63.9461 16.704 63.229 15.8811C62.898 15.4971 62.4015 14.5646 62.4015 11.9589L62.4019 11.7741C62.4068 10.9346 62.4694 8.94804 63.2841 8.03657C63.8082 7.46057 64.7459 7.13143 65.794 7.13143H68.5521C68.8279 7.13143 69.1313 7.15886 69.4072 7.35086C69.7657 7.59771 69.8209 7.89943 69.8209 8.28343V16.7314ZM87.7762 18.624C87.2522 19.1451 86.4523 19.2 85.7628 19.2L78.6414 19.1999C77.8655 19.1975 76.9157 19.158 76.1369 18.4869C74.951 17.472 74.8682 15.6069 74.8682 14.5371C74.8682 13.248 75.0061 11.9589 76.1094 10.9989C77.0195 10.2034 78.0125 10.1486 78.7847 10.1486H85.1284V9.13371C85.1284 8.69485 85.0733 8.20114 84.7147 7.76228C84.2734 7.21371 83.639 7.13143 83.1426 7.13143H75.9439V4.66285H84.2458C85.487 4.66285 86.6178 5.10171 87.2797 5.78743C87.8865 6.41828 88.3554 7.59771 88.3554 9.216V16.7589C88.3554 17.28 88.3002 18.1029 87.7762 18.624ZM79.6949 16.7314C79.2812 16.7314 78.8675 16.512 78.6468 16.2926C78.2607 15.8811 78.2055 15.1131 78.2055 14.6743C78.2055 13.632 78.4538 13.248 78.5641 13.1109C78.9227 12.6446 79.5294 12.6171 79.7501 12.6171H85.1284V15.9634C85.1284 16.1829 85.1284 16.3749 84.9078 16.5669C84.7147 16.7109 84.4583 16.7289 84.2679 16.7311L79.6949 16.7314ZM93.7889 10.9989V19.2H90.5619V10.1486C90.5619 8.55771 90.8377 6.99428 92.0789 5.92457C93.4304 4.74514 95.3335 4.66285 96.4643 4.66285H98.6432V7.13143H97.2917C96.4367 7.13143 95.3059 7.24114 94.5336 8.14628C93.9268 8.88685 93.7889 9.90171 93.7889 10.9989ZM108.6 19.2V16.7314H107.8C107.221 16.7314 106.007 16.704 105.29 16.1006C104.421 15.3889 104.429 14.159 104.434 13.1967C104.435 13.1206 104.435 13.0461 104.435 12.9737V7.13143H108.517V4.66286H104.435V0H101.208V4.66286H99.1948V7.13143H101.208V14.4549C101.208 16.2926 101.732 17.3623 102.67 18.1303C103.58 18.8709 104.628 19.2 106.587 19.2H108.6Z" fill="#A0A8BD"/>
+                </svg>                    
+            </div>
+            <ul class="navigation">
+                <li>Головна</li>
+                <li>Про нас</li>
+                <li>Робота</li>
+                <li>Бронювання студії</li>
+                <li>Замовити книгу</li>
+                <li>Контакти</li>
+            </ul>
+            <div class="menu-icon">
+                <font-awesome-icon :icon="icon" size="2x"
+                @click.prevent="toggle"
+                />
+            </div>
+            <div class="sidebar" 
+                :class="{ '_active' : isBurgerActive }"
+                @click.prevent="toggle"
+            >
+                <ul>
+                    <li class="side"><a href="#">Головна</a></li>
+                    <li class="side"><a href="#">Про нас</a></li>
+                    <li class="side"><a href="#">Робота</a></li>
+                    <li class="side"><a href="#">Бронювання студії</a></li>
+                    <li class="side"><a href="#">Замовити книгу</a></li>
+                    <li class="side"><a href="#">Контакти</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+</template>
+
+<script>
+
+export default {
+    data: () => ({
+            isBurgerActive: false
+        }),
+    methods: {
+        toggle() {
+            this.isBurgerActive = !this.isBurgerActive
+        }
+    },
+    computed: {
+        icon() {
+            if (this.isBurgerActive) {
+                return ['fas', 'times']
+            } else {
+                return ['fas', 'bars']
+            }
+        }
+    }
+}
+
+</script>
+
+<style lang="scss" scoped>
+@import "@/scss/_variables.scss";
+
+header {
+    background-color: $light;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: $padding;
+}
+.logo {
+    padding: 1.4em 0;
+
+    @media screen and (max-width: 812px) {
+        padding: .2rem 0 0 0;
+    }
+}
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+
+    @media screen and (max-width: 812px) {
+        display: none;
+    }
+
+    & li {
+        list-style-type: none;
+        color: $dark;
+        font-size: 1rem;
+        padding: .5em 1em;
+        font-weight: 400;
+
+        &:hover {
+            background: $dark;
+            color: $white;
+            transition: all .5s ease;
+            cursor: pointer;
+        }
+
+        & a {
+            text-decoration: none;
+            color: inherit;
+        }
+    }
+}
+.sidebar {
+    position: fixed;
+    width: 100%;
+    list-style: none;
+    height: 100vh;
+    top: 0;
+    left: -100%;
+    background-color: $dark;
+    z-index: 2;
+    transition: all 0.3s ease-in-out;
+    z-index: 8;
+
+    & ul {
+        list-style-type: none;
+        padding-left: 2rem;
+
+        & li {
+            margin-top: 2em;
+            font-size: calc(20px + 16 * (100vw / 1920));
+            font-weight: 700;
+            color: $white;
+
+            & a {
+                color: $white;
+                text-decoration: none;
+            }
+
+            &:nth-child(1) {
+                margin-top: 3em;
+            }
+        }
+    }
+}
+._active {
+    transform: translate(100%, 0px);
+    transition: all 0.5s ease-in-out;
+}
+.menu-icon {
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    z-index: 9;
+    background: transparent;
+    text-align: center;
+
+    @media screen and (min-width: 813px) {
+        display: none;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    & .fa-2x {
+        color: $grey;
+    }
+}
+</style>

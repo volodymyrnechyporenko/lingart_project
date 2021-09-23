@@ -1,0 +1,22 @@
+// colors
+
+$light: hsla(228, 20%, 95%, 1);
+$dark: hsla(218, 6%, 24%, 1);
+$white: hsla(0, 0%, 100%, 1);
+$grey: 	hsl(223, 18%, 68%);
+
+// font-color
+
+@function fontColor($color) {
+    @if (lightness($color) > 40) {
+      @return #3A3D42;
+    }
+    @else {
+      @return #FFFF;
+    }
+}
+
+// padding
+
+$padding: 2vh 8vw;
+$padding-btn: .6em 1em;

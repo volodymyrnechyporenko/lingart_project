@@ -1,0 +1,19 @@
+.preorder-book, .market, .send, .order_btn, .precount-order {
+    padding: $padding-btn;
+    background-color: $dark;
+    color: fontColor($dark);
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+.preorder-studio {
+    background-color: $white;
+    color: fontColor($white);
+}
+.preorder-book, .preorder-studio {
+    border: 1px solid $white;
+}
+.order_btn {
+    width: 100%;
+    margin-top: 1rem;
+}
