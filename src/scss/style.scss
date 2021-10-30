@@ -2,8 +2,9 @@ html {
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
+
 body {
-    font-family: 'Lato';
+    font-family: 'Lato', sans-serif;
     font-size: 16px;
     min-height: 100vh;
     padding: 0 10vw;
@@ -16,5 +17,3 @@ body {
         padding: 0;
     }
 }
-
-@import "variables";

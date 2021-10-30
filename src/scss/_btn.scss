@@ -1,18 +1,40 @@
-.preorder-book, .market, .send, .order_btn, .precount-order {
+.preorder-book,
+.market,
+.send,
+.order_btn,
+.precount-order {
     padding: $padding-btn;
     background-color: $dark;
     color: fontColor($dark);
     cursor: pointer;
     outline: none;
     border: none;
+
+    &:hover {
+        background-color: $light;
+        color: fontColor($light);
+        outline: 1px solid $dark;
+        transition: all .2s ease;
+    }
 }
+
 .preorder-studio {
     background-color: $white;
     color: fontColor($white);
+
+    &:hover {
+        background-color: $dark;
+        color: fontColor($dark);
+        outline: 1px solid $light;
+        transition: all .2s ease;
+    }
 }
-.preorder-book, .preorder-studio {
+
+.preorder-book,
+.preorder-studio {
     border: 1px solid $white;
 }
+
 .order_btn {
     width: 100%;
     margin-top: 1rem;

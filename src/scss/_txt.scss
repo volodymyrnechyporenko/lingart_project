@@ -2,36 +2,51 @@ h1 {
     font-size: 4rem;
     margin-bottom: 0;
 }
+
 .subtitle {
     font-size: 3rem;
     margin-bottom: 1em;
 }
+
 h2 {
     font-size: 2.4rem;
 }
-.book-title, .team-name, .team-info, .book-info {
+
+.book-title,
+.team-name,
+.team-info,
+.book-info {
     padding-top: 1em;
 }
-.book-title, .team-name {
+
+.book-title,
+.team-name {
     font-size: 1.6rem;
     font-weight: 600;
 }
+
 .book-title {
     color: fontColor($white);
 }
+
 .team-name {
     color: fontColor($dark);
 }
-.team-info, .book-info {
+
+.team-info,
+.book-info {
     font-size: 1.2rem;
     font-weight: 300;
 }
+
 .team-info {
     color: $grey;
 }
+
 .book-info {
     color: $grey;
 }
+
 p {
     font-size: 1rem;
     font-weight: 200;

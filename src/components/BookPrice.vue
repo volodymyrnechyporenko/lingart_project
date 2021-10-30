@@ -50,7 +50,7 @@
 export default {
   methods: {
     async getResponse() {
-      let currency = await fetch(
+      const currency = await fetch(
         'https://api.privatbank.ua/p24api/pubinfo?exchange&json&coursid=11'
       ); /* звертаємось до API привату */
       let content = await currency.json();

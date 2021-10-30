@@ -1,18 +1,17 @@
 <template>
-<Header></Header>
-<main>
-  <BannerArea></BannerArea>
-  <Accomplishments></Accomplishments>
-  <About></About>
-  <Catalogue></Catalogue>
-  <AreYouIn></AreYouIn>
-  <Team></Team>
-  <OrderStudio></OrderStudio>
-  <Fixed></Fixed>
-  <ScrollTopArrow></ScrollTopArrow>
-</main>
-<Footer></Footer>
-  
+  <Header></Header>
+  <main>
+    <BannerArea></BannerArea>
+    <Accomplishments></Accomplishments>
+    <About></About>
+    <Catalogue></Catalogue>
+    <AreYouIn></AreYouIn>
+    <Team></Team>
+    <OrderStudio></OrderStudio>
+    <Fixed></Fixed>
+    <ScrollTopArrow></ScrollTopArrow>
+  </main>
+  <Footer></Footer>
 </template>
 
 <script>
@@ -25,7 +24,7 @@ import AreYouIn from './components/AreYouIn.vue';
 import OrderStudio from './components/OrderStudio.vue';
 import Team from './components/Team.vue';
 import Fixed from './components/Fixed.vue';
-import ScrollTopArrow from './components/ScrollTopArrow.vue'
+import ScrollTopArrow from './components/ScrollTopArrow.vue';
 import Footer from './components/Footer.vue';
 
 export default {
@@ -43,11 +42,10 @@ export default {
     ScrollTopArrow,
     Footer
   }
-}
+};
 </script>
 
 <style lang="scss">
-@import "@/scss/_btn.scss";
-@import "@/scss/_txt.scss";
-
+@import '@/scss/_btn.scss';
+@import '@/scss/_txt.scss';
 </style>
